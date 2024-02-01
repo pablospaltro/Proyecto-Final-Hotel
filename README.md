@@ -1,18 +1,16 @@
-## Getting Started
+🏠 Hotel Management System 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+  JAVA Application for employee authentication, task management, and passenger registration.
 
-## Folder Structure
+    📌 Object Oriented Programming
+    📌 Exceptions
+    📌 SQL Data Persistence
+    📌 API Integration
 
-The workspace contains two folders by default, where:
+Final project for the Diploma course 'Introduction to Programming with JAVA"
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Espacio Dev
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Universidad Tecnológica Nacional (UTN Mar del plata)
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+July 2023
